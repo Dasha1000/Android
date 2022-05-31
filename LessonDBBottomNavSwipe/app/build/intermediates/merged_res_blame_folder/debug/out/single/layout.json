@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_list.xml",
+        "source": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dialog.xml",
+        "source": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\src\\main\\res\\layout\\fragment_dialog.xml"
+    },
+    {
+        "merged": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_content.xml",
+        "source": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\src\\main\\res\\layout\\fragment_content.xml"
+    },
+    {
+        "merged": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
+        "source": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\workStudy\\KotlinDevelopment\\Repo Android\\Android\\LessonDBBottomNavSwipe\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

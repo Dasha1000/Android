@@ -1,0 +1,22 @@
+dev/software/db/BuildConfig.java
+ dev.software.db.BuildConfig
+dev/software/db/database/SongDao_Impl.java
+ dev.software.db.database.SongDao_Impl
+ dev.software.db.database.SongDao_Impl$1
+ dev.software.db.database.SongDao_Impl$2
+ dev.software.db.database.SongDao_Impl$3
+dev/software/db/databinding/FragmentDialogBinding.java
+ dev.software.db.databinding.FragmentDialogBinding
+dev/software/db/databinding/FragmentContentBinding.java
+ dev.software.db.databinding.FragmentContentBinding
+dev/software/db/databinding/FragmentListBinding.java
+ dev.software.db.databinding.FragmentListBinding
+dev/software/db/database/AppDatabase_Impl.java
+ dev.software.db.database.AppDatabase_Impl
+ dev.software.db.database.AppDatabase_Impl$1
+dev/software/db/databinding/FragmentAddBinding.java
+ dev.software.db.databinding.FragmentAddBinding
+dev/software/db/databinding/ItemBinding.java
+ dev.software.db.databinding.ItemBinding
+dev/software/db/databinding/ActivityMainBinding.java
+ dev.software.db.databinding.ActivityMainBinding
